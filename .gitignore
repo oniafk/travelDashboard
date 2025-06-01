@@ -4,3 +4,11 @@
 # React Router
 /.react-router/
 /build/
+
+# Environment files
+.env.local
+.env.*.local
+.env
+.env.development.local
+.env.test.local
+.env.production.local
